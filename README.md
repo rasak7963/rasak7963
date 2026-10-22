@@ -6,11 +6,11 @@ IT Infrastructure and Network Engineer with 9+ years of experience across IT sup
 
 ## Technical Skills
 
-- Networking: VLANs, STP, EtherChannel, HSRP, OSPF, TCP/IP
-- Security: FortiGate, Sophos XG, VPNs, network segmentation
-- Windows: Active Directory, DNS, DHCP, Group Policy, Windows Server
+- Networking: Cisco, Alcatel, UniFi,MicroTik,Dahua,VLANs,STP,RSTP,EtherChannel,HSRP,EIGRP,OSPF 
+- Security: FortiGate, Sophos XG, ASA, Palo Alto, Check point, SDWAN,VPNs,NAT network segmentation
+- Windows: Active Directory, DNS, DHCP, Group Policy, WDS, WSUS, Windows Server
 - Microsoft Cloud: Microsoft 365, Entra ID, hybrid identity
-- Lab & Monitoring: EVE-NG, VMware, Wazuh, Splunk fundamentals
+- Lab & Monitoring: EVE-NG, VMware, Zabbix,Wazuh,Splunk fundamentals
 
 ## Featured Projects
 
