@@ -2,7 +2,7 @@
 
 Hi, I'm Rashid.
 
-IT Infrastructure and Network Engineer with 9+ years of experience across IT support, networking, infrastructure administration, and network security.
+IT Infrastructure and Network Engineer with 9+ years of experience across corporate and hospitality networking, infrastructure administration, and network security.
 
 ## Technical Skills
 
@@ -17,7 +17,7 @@ IT Infrastructure and Network Engineer with 9+ years of experience across IT sup
 ### 1. Enterprise Campus Network
 - VLAN segmentation and trunk configuration
 - EtherChannel with LACP
-- Rapid-PVST and HSRP redundancy
+- Rapid-PVST and HSRP redundancy , VRRP, GLBP, MST
 - Routing, verification, and troubleshooting
 
 ### 2. Windows Server Infrastructure Lab
@@ -42,4 +42,4 @@ Each project includes its topology, objectives, configuration examples, verifica
 ## Career Interests
 
 Network Engineering | IT Infrastructure | Network Security | Cyber Security
-System Administration | Enterprise IT Support
+| System Administration | Enterprise IT Support 
